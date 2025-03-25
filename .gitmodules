@@ -4,3 +4,6 @@
 [submodule ".github"]
 	path = .github
 	url = git@github.com:AZDZ-Club/.github.git
+[submodule "workshop-template"]
+	path = workshop-template
+	url = git@github.com:AZDZ-Club/workshop-template.git
