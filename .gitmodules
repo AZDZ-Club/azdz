@@ -7,3 +7,6 @@
 [submodule "workshop-template"]
 	path = workshop-template
 	url = git@github.com:AZDZ-Club/workshop-template.git
+[submodule "workshops/azdz-101-25"]
+	path = workshops/azdz-101-25
+	url = git@github.com:AZDZ-Club/azdz-101-25.git
