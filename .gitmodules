@@ -1,3 +1,6 @@
 [submodule "azdz-web"]
 	path = azdz-web
 	url = git@github.com:AZDZ-Club/azdz-web.git
+[submodule ".github"]
+	path = .github
+	url = git@github.com:AZDZ-Club/.github.git
